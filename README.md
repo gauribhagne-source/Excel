@@ -143,12 +143,10 @@ Overall, the dashboard helps identify **category-level product volume, pricing p
 ## 🛠️ Tools & Technologies
 
 * Microsoft Excel
+* Data Cleaning
 * Pivot Tables
 * Pivot Charts
-* Slicers / Filters
-* Excel Formulas
-* Data Cleaning
-* Price Tier Analysis
 * KPI Cards
+* Slicers / Filters
 * Dashboard Design
-* Data Analysis
+
