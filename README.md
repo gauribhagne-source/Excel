@@ -71,11 +71,11 @@ The dataset contains **1,000 Flipkart sales transactions** covering the period f
 ### Overall Performance
 
 * **Total Sales:** ₹10.08M
-* **Total Quantity Sold:** 4.92K units
+* **Total Quantity Sold:** 4.9K units
 * **Total Orders:** 1,000
-* **Average Sales per Order:** ₹10.08K
+* **Average Sales per Order:** ₹10.1K
 * **Average Customer Rating:** 3.02
-* **Average Discount:** 14.45%
+* **Average Discount:** 14.5%
 
 ### Regional Performance
 
